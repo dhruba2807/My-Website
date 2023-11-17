@@ -1,0 +1,32 @@
+
+body{
+    margin: 0;
+    text-align: center;
+
+}
+h1{
+
+
+  width: 10%;
+  margin: 0 auto 0 auto;
+ 
+    
+}
+/* Centering the div content */
+.center-div {
+    text-align: center;
+}
+
+/* Style for the images */
+.center-div img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%; /* Ensure images don't exceed their container width */
+    height: auto; /* Maintain aspect ratio */
+    filter: blur(2px);
+}
+.center-div {
+    text-align: center;
+}
+
+/* Style for the image container */
